@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "expense": "iphone",
+    "value": "1000",
+    "category": "electornic",
+    "budget":"1050"
+  },
+  {
+    "id": 2,
+    "expense": "bigmac",
+    "value": "25",
+    "category": "food",
+    "budget":"1950"
+  
+  }
+]
